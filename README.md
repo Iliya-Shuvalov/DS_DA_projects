@@ -1,7 +1,7 @@
-# DS_DA_projects
-Проекты Data Science и Data Analysis. Репозиторий с проектами, созданными в рамках курса в Яндекс.Практикуме "Специалист по Data Science"
+# DS_DA_projects Проекты Data Science и Data Analysis.
+Репозиторий с проектами, созданными в рамках курса в Яндекс.Практикуме "Специалист по Data Science"
 
-### Содержание: / Content:
+### Содержание:
 
   - Предобработка данных / Data Processing - Project_01 (01_data_preprocessing)
   - Исследовательский анализ данных / Exploratory data analysis - Project_02 (02_research_data_analysis)
