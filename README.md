@@ -3,7 +3,7 @@
 
 ### Содержание: / Content:
 
-  - [Предобработка данных / Data Processing - *Project_01*](01_data_preprocessing)
+  - [Предобработка данных / Data Processing - Project_01](01_data_preprocessing)
   - [Исследовательский анализ данных / Exploratory data analysis - *Project_02*](02_research_data_analysis)
   - [Статистический анализ данных / Statistical analysis of data - *Project_03*](03_statistical_data_analysis)
   - [Сборный проект / Common project - *Project_04*](04_project_1)
